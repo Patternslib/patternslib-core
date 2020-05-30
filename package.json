@@ -28,6 +28,7 @@
     }
   ],
   "main": "./src/init.js",
+  "type": "module",
   "dependencies": {
     "jquery": "^3.5.1",
     "underscore": "^1.9.1",

@@ -1,5 +1,5 @@
 import $ from "jquery";
-import utils from "../../core/utils";
+import utils from "./utils";
 
 var pluggable = {
     extend: function(attrs) {

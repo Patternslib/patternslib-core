@@ -9,7 +9,7 @@ import logging from './core/logging.js';
 import mockup_parser from './core/mockup-parser.js';
 import parser from './core/parser.js';
 import pluggable from './core/pluggable.js';
-import push_kith from './core/push_kit.js';
+import push_kit from './core/push_kit.js';
 import registry from './core/registry.js';
 import remove from './core/remove.js';
 import store from './core/store.js';
