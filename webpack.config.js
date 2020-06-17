@@ -68,11 +68,7 @@ module.exports = env => {
                             query: 'jQuery'
                         }
                     ]
-                },
-                {
-                    test: /\.css$/,
-                    use: [{ loader: 'style-loader' }, { loader: 'css-loader' }],
-                },
+                }
             ]
         },
         plugins: [
