@@ -13,3 +13,6 @@ $.cleanData = function remove_cleanData(elems) {
         $(el).triggerHandler("destroy");
     real_cleanData.call(this, arguments);
 };
+
+
+export default undefined;
