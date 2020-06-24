@@ -339,4 +339,4 @@ $.fn.scopedFind = function(selector) {
 };
 
 
-export default undefined;
+export default $;
